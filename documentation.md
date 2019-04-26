@@ -15,7 +15,6 @@
 ```
 Улучшенный переводчик (reverso.context?) API
 Geocoder API
-
 ```
 ## Планы на проект
 ```
@@ -23,6 +22,9 @@ Geocoder API
 Улучшение перевода
 ```
 ## Библиотеки и работа с API
+API New York Times(Times Newswire API)
+API Яндекс Переводчика
+Яндекс.Алиса(Yandex.FIO)
 ## Для работы с PythonAnyWhere
 ```
 1)Необходимо изменить название главного файла main.py на flask_app.py при загрузке на сервер
